@@ -4,10 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F04031&repeat=true&width=435&lines=Laravel%2C+PHP%2C+Vue.js+Enjoyer" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
-
-
 
 	
 ##  **About me**
@@ -93,22 +90,3 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>Que la force soit avec vous!
- 
-</b>
- <img align="center" top="100" height="400" width="450" alt="GIF" src="https://media.giphy.com/media/3oEduFNHfDMjyIpgCk/giphy.gif">
-
- 
-</div>
-
-<br>
-<br>
-<br>
-
-<br>
