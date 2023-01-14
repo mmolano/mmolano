@@ -46,6 +46,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Vuejs](https://img.shields.io/badge/Vue.js-347A58.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![Reactjs](https://img.shields.io/badge/React.js-16181D.svg?style=for-the-badge&logo=react&logoColor=BDF0FD)
 
 
 <br>
