@@ -9,8 +9,6 @@
 	
 ##  **About me**
 
-<picture><img align="right" top="100" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
-
 <br>
 <br><br>
 <div>
@@ -22,7 +20,9 @@
    
    </ul>
   
-  - You can find my resume [here](https://github.com/mmolano/mmolano/files/10408981/ResumeLMiguelMolano.pdf)
+  - You can download my english resume [here](https://github.com/mmolano/mmolano/files/11319585/Molano.pdf)
+  - My Japanese resume: [職務経歴書](https://github.com/mmolano/mmolano/files/11319590/-LMiguelMolano.pdf)
+  - My web portfolio here: https://miguel-dev.vercel.app/
 </div>
  
 
